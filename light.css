@@ -7,15 +7,15 @@ body
 table.tab
 {
     background-color: 303030;
-    border-bottom: 2px red solid;
+    border-bottom: 2px red solid;   
     width: 100%;
 }
 table.news
 {
     background-color: #1a1a1afa;   
     width: 100%;  
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
     animation: intro 1s forwards;            
 }
 table.info
@@ -55,7 +55,7 @@ font.tabfont
 {
     color: white; 
     font-family: arial;
-    font-size: 100%;        
+    font-size: 125%;            
 }
 font.infofont
 {
