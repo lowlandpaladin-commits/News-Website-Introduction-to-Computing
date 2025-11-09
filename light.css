@@ -15,9 +15,9 @@ table.news
 {
     background-color: #1a1a1afa;   
     width: 100%;  
-    padding-left: 3%;
-    padding-right: 3%;
-    animation: intro 1s forwards;            
+    padding-left: 10%;
+    padding-right: 10%;
+    animation: intro 1s forwards;               
 }
 table.info
 {
@@ -40,6 +40,11 @@ td.main
     padding: 30;
     background-color: black;
 }
+td.top
+{
+    vertical-align: top;
+    padding-top: 0;
+}
 
 /*Font Classes*/
 hr
@@ -50,15 +55,13 @@ font.highlightarticle
 {
     color: white;
     font-family:arial;
-    font-size: 150%;
+    font-size: 100%;
 }
 font.tabfont
 {
     color: white; 
     font-family: arial;
-    font-size: 125%;         
-    text-decoration: underline;
-    font-weight: bold;
+    font-size: 100%;             
 }
 font.infofont
 {
@@ -69,26 +72,26 @@ font.titles
 {
     color: white;
     font-family:arial;
-    font-size: 125%;
+    font-size: 100%;
 }
 font.articles
 {
     color: white;
     font-family:arial;
-    font-size: 125%;
+    font-size: 100%;
     line-height: 1.6;
 }
 font.subtitle
 {
     color: #d0d0d0;
     font-family:arial;
-    font-size: 125%;
+    font-size: 90%;
 }
 font.subheading 
 {
     color: red;
     font-weight: bold;
-    font-size: 170%;
+    font-size: 115%;
     font-style: oblique;
     text-shadow:  -1px 1px #ff7300;
 }
@@ -96,7 +99,7 @@ font.subheading1
 {
     color: #ff555f;
     font-weight: bold;
-    font-size: 125%;
+    font-size: 115%;
     font-style: oblique;
     text-shadow:  -1px 0px #;
 }
@@ -141,6 +144,16 @@ div.highlightbox
     animation: newsmoving1 10s infinite; 
 }
 /*Images and animation*/
+div.tab
+{
+    overflow: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 30;          
+    background-color: #1a1a1afa;   
+    padding: 10px;
+
+}
 div.ads {
     width: 30%;
     height: 100%;
