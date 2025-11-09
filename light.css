@@ -224,13 +224,13 @@ div.scroll
 p.credits
 {
     text-align: center;
-    font-size: 200%;
+    font-size: 100%;
     font-family: monospace;    
 }
 p.verse
 {
     text-align: center;
-    font-size: 125%;
+    font-size: 100%;
     font-family: monospace;
     color: #939393;
     
