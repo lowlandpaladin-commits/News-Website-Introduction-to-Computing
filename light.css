@@ -66,26 +66,26 @@ font.titles
 {
     color: white;
     font-family:arial;
-    font-size: 100%;
+    font-size: 125%;
 }
 font.articles
 {
     color: white;
     font-family:arial;
-    font-size: 100%;
+    font-size: 125%;
     line-height: 1.6;
 }
 font.subtitle
 {
     color: #d0d0d0;
     font-family:arial;
-    font-size: 100%;
+    font-size: 125%;
 }
 font.subheading 
 {
     color: red;
     font-weight: bold;
-    font-size: 150%;
+    font-size: 170%;
     font-style: oblique;
     text-shadow:  -1px 1px #ff7300;
 }
@@ -93,7 +93,7 @@ font.subheading1
 {
     color: #ff555f;
     font-weight: bold;
-    font-size: 100%;
+    font-size: 125%;
     font-style: oblique;
     text-shadow:  -1px 0px #;
 }
@@ -101,7 +101,7 @@ font.heading
 {
     color: white;
     font-weight: bold;
-    font-size: 100%;  
+    font-size: 125%;  
     text-shadow:  -1px 0px #;
 }
 a.link
@@ -227,7 +227,7 @@ p.credits
 p.verse
 {
     text-align: center;
-    font-size: 100%;
+    font-size: 125%;
     font-family: monospace;
     color: #939393;
     
