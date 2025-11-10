@@ -61,7 +61,8 @@ font.tabfont
 {
     color: white; 
     font-family: arial;
-    font-size: 100%;             
+    font-size: 100%; 
+    text-shadow: -1px 1px #797979;            
 }
 font.infofont
 {
